@@ -1,4 +1,4 @@
-web-uploader
+web-uploader  (很牛的 上传文件 例子，很丰富)
 ============
 
 js (html5 + html4) 文件上传管理器，支持上传进度显示，支持秒传+分片上传+断点续传，支持图片预览+缩放，支持 IE6+、Firefox、Chrome等。
